@@ -4,7 +4,8 @@ To write an NS2 program to observe the performance of the network with Carrier S
 .
 # EQUIPMENT REQUIRED
 
-PC System with Linux OS, NS2 software.
+* PC System with Linux OS
+*  NS2 software.
 
 # ALGORITHM
 STEP 1: Start the program.
@@ -106,9 +107,10 @@ $ns at 8.0 "finish"
 $ns run
 ~~~ 
 # OUTPUT
+
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/20b3dbff-1255-4955-838b-51383f0a22ea" />
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/32b0d909-d4de-4bd1-8275-a53b8af265cc" />
-
-
 
 
 # RESULT
