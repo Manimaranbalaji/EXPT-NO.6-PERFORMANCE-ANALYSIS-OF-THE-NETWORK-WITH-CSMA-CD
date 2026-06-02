@@ -108,9 +108,9 @@ $ns run
 ~~~ 
 # OUTPUT
 
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/20b3dbff-1255-4955-838b-51383f0a22ea" />
+<img width="1599" height="1014" alt="WhatsApp Image 2026-06-02 at 5 45 20 PM" src="https://github.com/user-attachments/assets/836ee06a-5200-45ba-83ac-a49c35cfa649" />
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/32b0d909-d4de-4bd1-8275-a53b8af265cc" />
+<img width="1561" height="969" alt="WhatsApp Image 2026-06-02 at 5 45 19 PM (2)" src="https://github.com/user-attachments/assets/f5cba0f6-0c29-4820-982d-0eaef2f0ab26" />
 
 
 # RESULT
